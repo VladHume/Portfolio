@@ -28,7 +28,7 @@ Currently seeking opportunities to grow my skills and contribute to challenging 
 ---
 
 ### 2. [eBank](https://github.com/VladHume/eBank)
-**Type:** University coursework project  
+**Type:** Coursework project  
 **Description:** A backend for a banking web application with client/account management, card issuance, transactions, and PDF reporting.  
 **Tech stack:** Python, Flask, MySQL, pdfkit, wkhtmltopdf  
 **My contribution:**
@@ -39,6 +39,4 @@ Currently seeking opportunities to grow my skills and contribute to challenging 
 ---
 
 ## 📫 Contact
-- **GitHub:** [VladHume](https://github.com/VladHume)  
-- **Email:** your.email@example.com  
-- **LinkedIn:** *(optional)*  
+- **GitHub:** [VladHume](https://github.com/VladHume)   
