@@ -6,10 +6,10 @@ I focus mainly on **server-side development** and **database design**, but also 
 Currently seeking opportunities to grow my skills and contribute to challenging projects.
 
 ## 🛠 Tech Stack
-- **Languages:** Python, C, JavaScript, HTML, CSS
-- **Frameworks:** Flask, FastAPI
-- **Databases:** MySQL, SQLite
-- **Tools:** Git, Docker, REST API development, PDF generation
+- **Languages:** Python
+- **Frameworks:** Flask
+- **Databases:** MySQL
+- **Tools:** Git, REST API development, PDF generation
 
 ---
 
