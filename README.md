@@ -39,4 +39,5 @@ Currently seeking opportunities to grow my skills and contribute to challenging 
 ---
 
 ## 📫 Contact
-- **GitHub:** [VladHume](https://github.com/VladHume)   
+- **GitHub:** [VladHume](https://github.com/VladHume)
+- **Telegram** @vlad110205
