@@ -1,4 +1,4 @@
-# 💼 Portfolio – Vlad Humeniuk
+# 💼 Portfolio
 
 ## 👋 About Me
 I am a junior backend developer passionate about building functional, efficient, and scalable applications.  
